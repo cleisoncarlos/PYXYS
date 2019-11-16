@@ -1,8 +1,6 @@
 # PYXYS teste
 
-bara baixar as dependencias entre na pasta 
-
-wp-content/ e aplique o comando
+bara baixar as dependencias basta aplicar o comando
 
     npm install
 
